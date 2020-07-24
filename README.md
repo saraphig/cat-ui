@@ -1,4 +1,4 @@
-# hg
+# cat ui
 
 ## Project setup
 ```
